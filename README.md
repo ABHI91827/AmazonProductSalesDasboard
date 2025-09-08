@@ -2,6 +2,7 @@
 # AmazonProductSales-Dashboard
 
 ## DataSet
+<a href=https://github.com/ABHI91827/AmazonProductSalesDasboard/blob/main/amazon_products_sales_data_cleaned.xlsx>Amazon Dateset</a>
 
 
 
@@ -51,6 +52,8 @@
 -Baseline Actual_revenue:
 
       =sumx('amazonProductSale',original_price-Product_sale_lastmonth).
+## DASHBOARD
+
 
 -Revenue uplift:
 
