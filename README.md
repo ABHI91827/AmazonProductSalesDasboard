@@ -58,5 +58,7 @@
 -Revenue uplift:
 
         =sumx('amazonProductSale',original_price-discounted_price *Product_sale_lastmonth).
+## DASHBOARD
+<a href =https://github.com/ABHI91827/AmazonProductSalesDasboard/blob/main/Amazon_sales_dashboard.pbix>view Dashboard</a>
        
 
