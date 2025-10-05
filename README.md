@@ -59,6 +59,6 @@
 
         =sumx('amazonProductSale',original_price-discounted_price *Product_sale_lastmonth).
 ## DASHBOARD
-<a href =https://github.com/ABHI91827/AmazonProductSalesDasboard/blob/main/Amazon_sales_dashboard.pbix>view Dashboard</a>
+<a href ="https://app.powerbi.com/groups/me/reports/35243884-604c-401b-ba51-77ba1964b33f?experience=power-bi">view Dashboard</a>
        
 
