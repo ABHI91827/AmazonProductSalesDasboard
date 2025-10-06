@@ -61,8 +61,11 @@
 ## DASHBOARD
 <a href ="https://app.powerbi.com/groups/me/reports/35243884-604c-401b-ba51-77ba1964b33f?experience=power-bi">view Dashboard</a>
 
-## Image
+## Images
 ![image alt](https://github.com/ABHI91827/AmazonProductSalesDasboard/blob/7c8256460fcaccb5b48761a9a378c3699a1be3e0/Screenshot%202025-10-06%20191739.png)
+
+![image alt](https://github.com/ABHI91827/AmazonProductSalesDasboard/blob/b0acbed8282b061f998d975777f4731acfe787fe/Screenshot%202025-10-06%20191755.png)
+
 
 
 This project demonstrates end-to-end data analysis workflow and business insights generation.
